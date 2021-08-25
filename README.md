@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=zepson.co.tz&style=for-the-badge&url=https%3A%2F%2zepson.co.tz)](https://zepson.co.tz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zepsonlab?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2zepsonlab&screen_name=zepsonlab)
 
-## I'm a boyfriend, Son, Developer, and Brother!!
+## I'm a boyfriend, friend, Developer, and Brother!!
 
 - 🔭 I just launched creative desk: Become A  Code SuperHero!
 - 🌱 I’m currently learning Artificial intelligence 🤣
