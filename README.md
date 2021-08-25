@@ -45,18 +45,26 @@
 
 ---
 
+### 📺 Latest YouTube Videos
 
+<!-- YOUTUBE:START -->
+- [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
+- [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
+- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
+- [⭐ BONUS: STACKr News Shorts - How To Accept Payments With Stripe](https://www.youtube.com/watch?v=dOnI3CtvFD4)
+- [Intentional Career Building with Kent C. Dodds // React Advanced London Interview](https://www.youtube.com/watch?v=1lxAnODL7GU)
+<!-- YOUTUBE:END -->
 
+➡️ [more videos...](https://youtube.com/codestackr)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-  <img align="left" alt="pro-cms" src="https://github-readme-stats.codestackr.vercel.app/api?username=pro-cms&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://zepson.co.tz
 [twitter]: https://twitter.com/zepsonlab
 [youtube]: https://www.youtube.com/channel/UC4WSpJhh6VgkVLVPJDLwNpQ
 [instagram]: https://instagram.com/pro-cms
-[linkedin]: https://linkedin.com/in/novath-thomas-1ab7a2216
+[linkedin]: https://linkedin.com/in/pro-cms
+[jsplaylist]: t
+[cssplaylist]: t
+[reactplaylist]: t
