@@ -5,7 +5,7 @@
 
 ## I'm a boyfriend, Son, Developer, and Brother!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched creative desk: Become A  Code SuperHero!
 - 🌱 I’m currently learning Artificial intelligence 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
