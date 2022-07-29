@@ -7,7 +7,7 @@
 - 🔭 I just launched creative desk: Become A  Code SuperHero!
 - 🌱 I’m currently learning Artificial intelligence 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to joke and listen to bongo-flavour music
 
 ### Connect with me:
